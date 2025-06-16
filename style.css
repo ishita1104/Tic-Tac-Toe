@@ -6,7 +6,10 @@
 body{
     background-color: rgb(255, 235, 235);
     text-align: center;
-    background-image: url(untitled.jpg);
+    background-image: url('Untitled.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .container{
